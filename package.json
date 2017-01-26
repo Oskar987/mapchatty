@@ -1,0 +1,27 @@
+{
+  "name": "mapchatty",
+  "version": "1.0.0",
+  "description": "Web application with chat on the map",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oskar987/mapchatty.git"
+  },
+  "keywords": [
+    "mapchatty",
+    "socket.io",
+    "chat",
+    "map"
+  ],
+  "author": "Oskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oskar987/mapchatty/issues"
+  },
+  "homepage": "https://github.com/Oskar987/mapchatty#readme"
+}
