@@ -1,2 +1,2 @@
-# mapchatty
+# Mapchatty
 MapChatty . (google maps, socket.io, passport.js, express.js, node.js)
